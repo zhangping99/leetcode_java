@@ -1,4 +1,4 @@
-package tiku;
+package code;
 
 public class Solution1470 {
 }

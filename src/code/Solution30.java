@@ -1,4 +1,4 @@
-package tiku;
+package code;
 
 import java.util.*;
 

@@ -1,6 +1,4 @@
-package tiku;
-
-import java.math.BigInteger;
+package code;
 
 public class Solution263 {
     public boolean isUgly(int n) {

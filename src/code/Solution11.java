@@ -1,7 +1,4 @@
-package tiku;
-
-import java.util.ArrayList;
-import java.util.Collections;
+package code;
 
 /*
 # 题目
